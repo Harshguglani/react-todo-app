@@ -1,6 +1,7 @@
 import React from 'react';
 import {getOptions} from '../../services/filter';
-
+//ok
+//2
 export default function Filter(props) {
     const options = getOptions();
     const {filter, changeFilter} = props;
